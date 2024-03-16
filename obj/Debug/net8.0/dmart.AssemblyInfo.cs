@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dmart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8deddcc0fd71014fe00de30391768af5f020908")]
 [assembly: System.Reflection.AssemblyProductAttribute("dmart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dmart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
